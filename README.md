@@ -4,6 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=safari&logoColor=white)]( !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! )
 <!-- add LinkedIn ???? -->
+<!-- add telegram ???? -->
 
 ## Мой технологический стек
 ### Веб-разработка
@@ -63,5 +64,6 @@
 
 ## Давайте знакомиться!
 [![Portfolio](https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=safari&logoColor=white)]( !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! )
-[![Почта](https://img.shields.io/badge/Электронная%20почта-0076fe?style=for-the-badge)](mailto:n.s.pirogov@mail.ru)
+[![Почта](https://img.shields.io/badge/Почта-0076fe?style=for-the-badge&logo=maildotru)](mailto:n.s.pirogov@mail.ru)
 <!-- add LinkedIn ???? -->
+<!-- add telegram ???? -->
